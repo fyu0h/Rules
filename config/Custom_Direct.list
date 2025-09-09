@@ -15,6 +15,9 @@ DOMAIN,kp.m-team.cc
 DOMAIN,tracker.m-team.cc
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN,blog.iinin.me
+#甲骨文服务器直连
+167.234.218.187/16
+#steam直连
 *.cm.steampowered.com
 *.steamserver.net
 45.121.184.0/24
@@ -40,4 +43,3 @@ DOMAIN,blog.iinin.me
 208.64.200.0/22
 208.78.164.0/22
 205.185.194.0/24
-167.234.218.187/16
